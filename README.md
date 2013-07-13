@@ -11,4 +11,6 @@ single click pauses/plays
 middle click plays the next track
 right click brings up a menu to select the next or previous track.
 
+Dependencies: mpc
+
 This script was mostly based on the script described in this blog from 2006: http://blog.natulte.net/posts/2006-09-26-a-really-good-radio-and-a-really-cool-python-script.html. Much credit to David Anderson, whereever you are.
